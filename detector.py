@@ -9,3 +9,4 @@ wi=[p1,p2,p3,...pn]
 #pn within the set
 pn {P(tn)}
 
+a=abs(pk-f(pk))!=min
