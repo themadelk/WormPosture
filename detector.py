@@ -10,3 +10,8 @@ wi=[p1,p2,p3,...pn]
 pn {P(tn)}
 
 a=abs(pk-f(pk))!=min
+
+#local movement score of stationary worm i
+#sum from i to N
+#X is pixel value of picture at any given time
+deltat=sum(x(t)-x(t+1))-sum(x(t))-sum(x(t+1))
